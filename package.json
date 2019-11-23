@@ -1,0 +1,17 @@
+{
+  "name": "@anvilapp/react-native-debugger-client",
+  "version": "1.1.0",
+  "description": "React-native remote debugger client",
+  "main": "index.js",
+  "author": "yura.pustylnikov@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/pustylnikov/react-native-debugger-client",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pustylnikov/react-native-debugger-client.git"
+  },
+  "keywords": [
+    "react-native",
+    "debugger"
+  ]
+}
